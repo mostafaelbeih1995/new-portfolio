@@ -25,9 +25,9 @@ export const products = [
     img: "../img/prime-dev.png",
     link: "https://primedev-eg.com",
   },
-  // {
-  //   id: 6,
-  //   img: "",
-  //   link: "http://lama.dev",
-  // },
+  {
+    id: 6,
+    img: "../img/ramsesmedical.png",
+    link: "https://ramsesmedical.net/",
+  },
 ];
