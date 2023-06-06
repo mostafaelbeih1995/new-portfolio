@@ -1,8 +1,8 @@
 .c {
   height: 100vh;
   position: relative;
-  background-color: #2A0944;
-  color: #FEC260;
+  background-color: #F6F6F2;
+  color: #388087;
   
 }
 
@@ -77,8 +77,8 @@ textarea {
 button {
   border: none;
   padding: 15px;
-  background-color: #FEC260;
-  color: #2A0944;
+  background-color: #388087;
+  color: #F6F6F2;
   font-weight: 500;
   cursor: pointer;
 }
