@@ -9,7 +9,7 @@
 
 .p-browser {
   height: 20px;
-  background-color: rgb(243, 242, 242);
+  background-color: #388087;
   display: flex;
   align-items: center;
   position: sticky;
@@ -21,7 +21,7 @@
   height: 6px;
   border-radius: 50%;
   margin: 3px;
-  background-color: white;
+  background-color: #F6F6F2;
 }
 
 .p-img {
