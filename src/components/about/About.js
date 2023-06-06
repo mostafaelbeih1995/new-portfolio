@@ -9,7 +9,7 @@ const About = () => {
         <div className="a-card bg"></div>
         <div className="a-card">
           <img
-            src={`../../img/code.jpg`}
+            src={`../../img/developer.jpg`}
             alt=""
             className="a-img"
           />
