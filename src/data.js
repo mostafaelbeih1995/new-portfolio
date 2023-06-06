@@ -7,7 +7,7 @@ export const products = [
   
   {
     id: 2,
-    img: "../img/ramsesMedical.png",
+    img: "../img/ramsesmedical.png",
     link: "https://ramsesmedical.net/",
   },
   {
